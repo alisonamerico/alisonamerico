@@ -9,7 +9,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=blog&logoColor=white" />][blog] [<img src="https://img.shields.io/badge/telegram-%232ca5e0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 <br />
-<br />
 
 ### Technology Stack:
 
@@ -45,7 +44,6 @@
 
 <img src="https://img.shields.io/badge/docker-%232496ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
 
-<br />
 <br />
 
 ### :zap: GitHub Stats
