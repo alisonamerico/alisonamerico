@@ -55,5 +55,8 @@
 [blog]: https://alisonamerico.github.io/
 [telegram]: https://t.me/alisonamerico
 
-![Snake animation](https://github.com/alisonamerico/alisonamerico/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/alisonamerico/alisonamerico/output/github-contribution-grid-snake.svg)
+
+<!-- ![Snake animation](https://github.com/alisonamerico/alisonamerico/blob/output/github-contribution-grid-snake.svg) -->
+
 </div>
