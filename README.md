@@ -48,13 +48,14 @@
 
 ### :zap: GitHub Stats
 
-[![Alison Américo's github stats](https://github-readme-stats.vercel.app/api?username=alisonamerico&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonamerico&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="height">
+  <a href="https://github.com/alisonamerico">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alisonamerico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonamerico&theme=dark&layout=compact"/>
+</div>
 
 [linkedin]: https://www.linkedin.com/in/alisonamerico/
 [blog]: https://alisonamerico.github.io/
 [telegram]: https://t.me/alisonamerico
 
 ![Snake animation](https://github.com/alisonamerico/alisonamerico/blob/output/github-contribution-grid-snake.svg)
-
-</div>
