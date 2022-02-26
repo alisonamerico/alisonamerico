@@ -54,3 +54,6 @@
 [linkedin]: https://www.linkedin.com/in/alisonamerico/
 [blog]: https://alisonamerico.github.io/
 [telegram]: https://t.me/alisonamerico
+
+![Snake animation](https://github.com/alisonamerico/alisonamerico/blob/output/github-contribution-grid-snake.svg)
+</div>
