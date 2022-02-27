@@ -69,10 +69,6 @@ No activity tracked
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonamerico&theme=dark&layout=compact"/>
 </div>
 
-[linkedin]: https://www.linkedin.com/in/alisonamerico/
-[blog]: https://alisonamerico.github.io/
-[telegram]: https://t.me/alisonamerico
-
 ![Snake animation](https://github.com/alisonamerico/alisonamerico/blob/output/github-contribution-grid-snake.svg)
 
 </div>
