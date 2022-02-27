@@ -27,7 +27,7 @@
 
 ---
 
-## :skull: About Me :
+## :skull: About Me:
 
 ### I'm a person who sees technology as a means to help other people!
 
@@ -49,7 +49,7 @@
 
 ---
 
-📊 **This week I spent my time on:**
+### 📊 This week I spent my time on:
 
 <!--START_SECTION:waka-->
 
@@ -57,7 +57,7 @@
 
 ---
 
-### :zap: GitHub Stats
+### :zap: GitHub Stats:
 
 <div align="height">
   <a href="https://github.com/alisonamerico">
