@@ -27,7 +27,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           SHOW_TITLE: true
-        env: 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
           
