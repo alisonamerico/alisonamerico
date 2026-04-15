@@ -49,14 +49,6 @@ DevOps
 
 ______________________________________________________________________
 
-## ~/links
-
-Blog → https://alra.dev\
-LinkedIn → https://linkedin.com/in/alisonamerico\
-GitHub → https://github.com/alisonamerico
-
-______________________________________________________________________
-
 ## ~/contact
 
 ```bash
