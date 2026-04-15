@@ -46,11 +46,3 @@ DevOps
 ├── GitLab CI
 └── AWS S3
 ```
-
-______________________________________________________________________
-
-## ~/contact
-
-```bash
-email: alisonlira@proton.me
-```
